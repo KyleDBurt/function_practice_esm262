@@ -28,4 +28,7 @@ Catm = function(v, height, zm_add=200, k_o=0.1, k_d=0.7) {
 }
 
 
+
 # Conflicting comment
+
+# adding comment for github demonstration
