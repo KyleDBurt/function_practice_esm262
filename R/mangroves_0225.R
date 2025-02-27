@@ -1,6 +1,4 @@
 
-# New comment
-
 #' Carbon Sequestration by Mangrove Trees 
 #'
 #' This function estimates the carbon stored in mangrove trees
