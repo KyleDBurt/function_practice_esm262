@@ -26,3 +26,6 @@ Catm = function(v, height, zm_add=200, k_o=0.1, k_d=0.7) {
     Ca = Ca*1000
    return(Ca)
 }
+
+
+# adding comment for github demonstration
